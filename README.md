@@ -31,4 +31,4 @@ I’m a developer deeply interested in **Systems Programming**, **Low Level Inte
 * **[Email]:** zacodingparadox@gmail.com
 
 ---
-"The best way to understand a system is to build a smaller, simpler version of it first."
+"The best way to understand a system is to build a smaller, simpler version of it first." (I definitely didn't write this line here :P)
