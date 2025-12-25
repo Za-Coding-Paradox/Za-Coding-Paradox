@@ -1,36 +1,34 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Za-Coding-Paradox
 
-I’m a developer deeply interested in **Systems Programming** and the logical puzzles of **Discrete Mathematics**. I prefer building things from the ground up to understand how they work at the byte level.
+I’m a developer deeply interested in **Systems Programming**, **Low Level Integeration**, and in general **Architectural Design Tasks**. I prefer building things from the ground up to understand how they work at the byte level.
 
 ---
 
-### 🛠 What I’m Building Right Now
-* **[Project Name - e.g., DMSA]:** An automation system for discrete math. Currently working on [specific feature like "multi-argument analysis"].
-* **[Project Name - e.g., Memory Allocator]:** A custom C++ allocator designed for [specific goal like "low-latency" or "learning memory layouts"].
-* **[Project Name - e.g., Map Generator]:** Procedural world generation focusing on [specific detail like "algorithmic consistency" or "Indus Valley themes"].
+### What I have built
+* **[Discrete Math System Architecture]:** A Discrete Math Engine, build on memory efficient algorithms. The engine works on a pre-defined "Instruction Set" (that gets parsed), the system accepts commands, arguments as input, and processes them to generate accurate, and costrained results (if wanted).
 
-### 🧠 Core Interests & Research
+---
+
+### What I’m Building Right Now
+* **[Custom Memory Allocator]:** A custom C++ allocator designed for [specific goal like "low-latency" or "learning memory layouts"], specially oriented for "game engine specific memory managment".
+* **[Procedural Map Generation]:** Procedural world generation focusing on [specific detail like "algorithmic consistency", and "game design principles"].
+
+---
+
+### Core Interests & Research
 * **Low-Level Systems:** Memory management, performance optimization, and understanding the "why" behind the code.
-* **Discrete Math:** Combinatorics, Number Theory, and turning mathematical proofs into executable logic.
+* **Mathematics, and Physics:** Turning mathematical tools, and assets into usable applications (practical aspect of physics, and research aspect of mathematics).
 * **Developer Experience:** Building a streamlined workflow within **Neovim** and the terminal.
 
-### 💻 My Environment & Tools
-* **Languages:** C++, [Add others here]
-* **Frontend/Tools:** React, Vite, Firebase
+### My Environment & Tools
+* **Languages:** C, C++
 * **Editor:** Neovim (LSP, Mason, and a lot of custom config)
-* **OS/Terminal:** [e.g., Linux/MacOS, Zsh/Bash]
+* **OS/Terminal:** PWSH v7 + Starship + Wezterm
 
 ---
 
 ### 📈 Current Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
-
----
-
-### 📫 Get In Touch
-* **LinkedIn:** [Link]
-* **Portfolio:** [Link]
-* **Personal Note:** I'm always down to talk about **systems architecture**, **math problems**, or **Vim configurations**.
+![Stats](https://github-readme-stats.vercel.app/api?username=Za-Coding-Paradox&show_icons=true&theme=radical)
 
 ---
 "The best way to understand a system is to build a smaller, simpler version of it first."
