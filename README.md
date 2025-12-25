@@ -10,7 +10,7 @@ I’m a developer deeply interested in **Systems Programming**, **Low Level Inte
 ---
 
 ### What I’m Building Right Now
-* **[Custom Memory Allocator]:** A custom C++ allocator designed for [specific goal like "low-latency" or "learning memory layouts"], specially oriented for "game engine specific memory managment".
+* **[Custom Memory Allocator]:** A custom C++ allocator designed for [specific goals like "low-latency", and "learning memory layouts"], specially oriented for "game engine specific memory managment".
 * **[Procedural Map Generation]:** Procedural world generation focusing on [specific detail like "algorithmic consistency", and "game design principles"].
 
 ---
