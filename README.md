@@ -27,8 +27,8 @@ I’m a developer deeply interested in **Systems Programming**, **Low Level Inte
 
 ---
 
-### 📈 Current Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Za-Coding-Paradox&show_icons=true&theme=radical)
+### Contacts
+* **[Email]:** zacodingparadox@gmail.com
 
 ---
 "The best way to understand a system is to build a smaller, simpler version of it first."
