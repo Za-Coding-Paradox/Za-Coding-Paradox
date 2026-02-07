@@ -5,30 +5,29 @@ I’m a developer deeply interested in **Systems Programming**, **Low Level Inte
 ---
 
 ### What I have built
-* **[Discrete Math System Architecture]:** A Discrete Math Engine, build on memory efficient algorithms. The engine works on a pre-defined "Instruction Set" (that gets parsed), the system accepts commands, arguments as input, and processes them to generate accurate, and costrained results (if wanted).
+* **Discrete Math System Architecture:** A Discrete Math Engine, build on memory efficient algorithms. The engine works on a pre-defined "Instruction Set" (that gets parsed), the system accepts commands, arguments as input, and processes them to generate accurate, and costrained results (if wanted).
+* **Custom Memory Allocator:** A custom C++ allocator designed for [specific goals like "low-latency", and "learning memory layouts"], specially oriented for "game engine specific memory managment".
 
 ---
 
 ### What I’m Building Right Now
-* **[Custom Memory Allocator]:** A custom C++ allocator designed for [specific goals like "low-latency", and "learning memory layouts"], specially oriented for "game engine specific memory managment".
-* **[Procedural Map Generation]:** Procedural world generation focusing on [specific detail like "algorithmic consistency", and "game design principles"].
+* **Procedural Map Generation:** Procedural world generation focusing on [specific detail like "algorithmic consistency", and "game design principles"].
 
 ---
 
 ### Core Interests & Research
 * **Low-Level Systems:** Memory management, performance optimization, and understanding the "why" behind the code.
 * **Mathematics, and Physics:** Turning mathematical tools, and assets into usable applications (practical aspect of physics, and research aspect of mathematics).
-* **Developer Experience:** Building a streamlined workflow within **Neovim** and the terminal.
 
 ### My Environment & Tools
 * **Languages:** C, C++
 * **Editor:** Neovim (LSP, Mason, and a lot of custom config)
-* **OS/Terminal:** PWSH v7 + Starship + Wezterm
+* **OS/Terminal:** ZSH + Kitty + StarShip
 
 ---
 
 ### Contacts
-* **[Email]:** zacodingparadox@gmail.com
+* **Email:** zacodingparadox@gmail.com
 
 ---
 "The best way to understand a system is to build a smaller, simpler version of it first." (I definitely didn't write this line here :P)
