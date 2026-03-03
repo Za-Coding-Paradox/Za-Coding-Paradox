@@ -7,8 +7,8 @@ I’m a developer deeply interested in **Systems Programming**, **Low Level Inte
 ### What I have built
 * **Discrete Math System Architecture:** A Discrete Math Engine, built on memory efficient algorithms. The engine works on a pre-defined "Instruction Set" (that gets parsed), the system accepts commands, arguments as input, and processes them to generate accurate, and constrained results (if wanted).
 * **Custom Memory Allocator:** A custom C++ allocator designed for specific goals like "low-latency" and "learning memory layouts", specially oriented for "game engine specific memory management".
-* **AI-Algorithm-Visualizer:** A Python-based toolset designed to demonstrate the internal logic and data flow of various AI models.
-* **AI-Path Finder:** A Python implementation focusing on the visualization and efficiency of pathfinding algorithms like A* and Dijkstra.
+* **AI-Algorithm-Visualizer:** A Python-based toolset designed to demonstrate the internal logic and data flow of various AI algorithms like A*, and Greedy Best First Search.
+* **AI-Path Finder:** A Python implementation focusing on the visualization and efficiency of pathfinding algorithms like UCS, BFS, IDDFS etc.
 
 ---
 
