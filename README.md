@@ -188,8 +188,8 @@ Personal **developer portfolio** featuring a three-mode theme system (Dark / Lig
 
 | Award | Detail | Institution |
 |:---:|:---:|:---:|
-| 🏅 **Dean's List** | Semester 1 — Top academic standing | FCAPS University |
-| 🥇 **5th Place — Code Clash** | University-wide competitive programming | FCAPS University |
+| 🏅 **Dean's List** | Semester 1 — Top academic standing | NUCES -- FAST |
+| 🥇 **5th Place — Code Clash** | University-wide competitive programming | NUCES -- FAST |
 | 📂 **7 Public Repositories** | Across systems, AI, and algorithms | GitHub |
 
 </div>
