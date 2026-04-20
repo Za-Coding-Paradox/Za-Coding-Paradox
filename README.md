@@ -289,8 +289,6 @@ I am open to internships, collaborations, research opportunities, and project wo
 [![Dev Email](https://img.shields.io/badge/zacodingparadox%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zacodingparadox@gmail.com)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00D4AA?style=for-the-badge&logo=vercel&logoColor=black)](https://za-coding-paradox.github.io/Portofolio)
 
-📍 Faisalabad, Punjab, Pakistan
-
 </div>
 
 ---
