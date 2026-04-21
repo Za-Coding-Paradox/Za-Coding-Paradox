@@ -39,9 +39,9 @@ I currently operate at the intersection of **low-level systems engineering** and
 
 <div align="center">
 
-| 🖥️ OS | 🐚 Shell | 📝 Editor | 🎯 Focus | 📍 Location |
-|:---:|:---:|:---:|:---:|:---:|
-| Arch Linux x86_64 | Zsh + Starship | Neovim | Systems · AI | Faisalabad, Pakistan |
+| 🖥️ OS | 🐚 Shell | 📝 Editor | 🎯 Focus | 🔍 Interests | 📍 Location |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Arch Linux x86_64 | Zsh + Starship | Neovim | Systems · AI | Reason, Purpose & Economics |
 
 </div>
 
