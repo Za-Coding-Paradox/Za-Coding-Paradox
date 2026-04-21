@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300D4AA?style=for-the-badge&logo=vercel&logoColor=black)](https://za-coding-paradox.github.io/Portofolio)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300D4AA?style=for-the-badge&logo=vercel&logoColor=black)](https://Za-Coding-Paradox.github.io/Portofolio)&nbsp;
 [![Email](https://img.shields.io/badge/Work_Email-%230d1117?style=for-the-badge&logo=gmail&logoColor=00D4AA)](mailto:Abdullah.Ahmad.Khan.Professional@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%230d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Za-Coding-Paradox)
 
@@ -287,7 +287,7 @@ I am open to internships, collaborations, research opportunities, and project wo
 
 [![Work Email](https://img.shields.io/badge/Abdullah.Ahmad.Khan.Professional%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abdullah.Ahmad.Khan.Professional@gmail.com)&nbsp;
 [![Dev Email](https://img.shields.io/badge/zacodingparadox%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zacodingparadox@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00D4AA?style=for-the-badge&logo=vercel&logoColor=black)](https://za-coding-paradox.github.io/Portofolio)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00D4AA?style=for-the-badge&logo=vercel&logoColor=black)](https://Za-Coding-Paradox.github.io/Portofolio)
 
 </div>
 
