@@ -41,10 +41,4 @@ Software experiments and ongoing development work.
 ## Links
 
 [GitHub](https://github.com/Za-Coding-Paradox) · [LinkedIn](https://www.linkedin.com/in/abdullah-ahmad-khan-a22a17414)
-
-## Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Za-Coding-Paradox&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Za-Coding-Paradox&layout=compact&hide_border=true)
 ```
