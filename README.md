@@ -1,4 +1,3 @@
-```md
 # Abdullah Ahmad Khan
 
 Computer Science undergraduate interested in **systems programming, low-level engineering, algorithms, and AI**.
