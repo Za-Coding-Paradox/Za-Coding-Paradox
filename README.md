@@ -2,18 +2,6 @@
 
 Computer Science undergraduate interested in **systems programming, low-level engineering, algorithms, and AI**.
 
-## Who I Am
-
-I like building software from first principles and understanding how things work under the hood.
-
-## What I Do
-
-I work mainly with **C++, Rust, Python, and Linux**, building systems software, developer tools, algorithms, and AI-focused projects.
-
-## What I'm Studying
-
-Currently studying **Computer Science**.
-
 ## Interests
 
 - Systems Programming
