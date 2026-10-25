@@ -19,7 +19,7 @@ Currently studying **Computer Science**.
 - Systems Programming
 - Low-Level Software
 - Algorithms & Data Structures
-- Artificial Intelligence
+- Artificial Intelligence (Particularly GPU Performance Modeling & Kernel Dev)
 - Developer Tools
 - Runtime & Memory Architecture
 
